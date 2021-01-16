@@ -2,7 +2,7 @@
 1. [Installation](#installation)
 2. [Project Motivation](#project-motivation)
 3. [File Descriptions](#file-descriptions)
-4. [Results]results)
+4. [Results](#results)
 5. [Licensing and Acknowledgements](#licensing-and-acknowledgements)
 
 ## Installation
