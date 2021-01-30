@@ -29,7 +29,7 @@ Each Jupyter notebook contains code that analyses the dataset to answer one of t
 listings.csv contains the raw data that was analysed, downloaded from Kaggle.
 
 ## Results
-The results of this analysis are laid out in this post here (link to be added when ready).
+The results of this analysis are laid out in this post [here](https://gnahss.medium.com/exploring-boston-through-airbnb-1f1eccc15d59).
 
   ## Licensing and Acknowledgements
 Licensing for the data and other information on the data can be found on Kaggle [here](https://www.kaggle.com/airbnb/boston). 
